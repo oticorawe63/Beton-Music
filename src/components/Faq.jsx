@@ -46,7 +46,7 @@ const Faq = () => {
                         Есть вопросы? <span className="text-accent">У нас есть ответы</span>
                     </h2>
                     <p className="text-textMuted max-w-2xl mx-auto text-sm">
-                        Ответы на часто задаваемые вопросы.
+                        Ответы на часто задаваемые вопросы
                     </p>
                 </div>
 

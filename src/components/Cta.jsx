@@ -8,7 +8,7 @@ const Cta = () => {
                 <div className="relative border border-white/10 bg-gradient-to-br from-[#1c048c] via-[#2f09a3] to-[#4b11c5] backdrop-blur-md rounded-[2rem] p-12 md:p-20 text-center flex flex-col items-center overflow-hidden">
 
                     <h2 className="text-3xl md:text-5xl font-bold text-white tracking-tight mb-4 relative z-10 w-full md:w-3/4">
-                        Связь с нами
+                        Связаться с нами
                     </h2>
                     <p className="text-white/80 max-w-lg mx-auto mb-10 relative z-10 text-sm">
                         Получите план записи и расчет бюджета сегодня
